@@ -1,0 +1,28 @@
+# vscode
+.vscode
+
+# cpp
+build
+cmake-build-debug
+CMakeFiles
+*.out
+cmake-*
+
+## mac
+.idea
+.DS_Store
+
+## bin
+*.graph
+*.out
+*.offset
+*.bin
+*.edgelist
+cgr_compressor
+cgr_compressor.hpp.gch
+
+## data 
+data
+
+## experiment figures
+experiment

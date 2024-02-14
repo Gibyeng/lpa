@@ -1,0 +1,8 @@
+dblp, undirected
+roadnet, undirected
+youtube,  undirected
+aligraph, undirected
+lj, undirected
+uk, directed
+wiki, directed
+twitter. directed
